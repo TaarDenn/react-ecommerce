@@ -17,7 +17,7 @@ export default class App extends Component {
       <React.Fragment>
         <Navbar />
         <Switch>
-          <Route exact path="/" component={ProductList} />
+          <Route path="/" component={ProductList} />
           <Route path="/details" component={Details} />
           <Route path="/cart" component={Cart} />
           <Route component={Default} />
@@ -33,7 +33,9 @@ export default class App extends Component {
           <p>تماس با ما</p>
           <p>آدرس: خیابان آزادی، نرسیده به خیابان بهبودی، پلاک ۱۵۴</p>
           <p>تلفن: ۰۲۱۶۶۵۴۲۳۸۲۲</p>
-          <p className="text-center" style={{fontSize:'10px'}}>تمامی حقوق محفوط است</p>
+          <p className="text-center" style={{ fontSize: "10px" }}>
+            تمامی حقوق محفوط است
+          </p>
         </footer>
         <Modal />
       </React.Fragment>

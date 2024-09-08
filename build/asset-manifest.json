@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-ecommerce/static/css/main.56735e7d.chunk.css",
+    "main.js": "/react-ecommerce/static/js/main.ea52ddac.chunk.js",
+    "main.js.map": "/react-ecommerce/static/js/main.ea52ddac.chunk.js.map",
+    "runtime~main.js": "/react-ecommerce/static/js/runtime~main.a12f2eed.js",
+    "runtime~main.js.map": "/react-ecommerce/static/js/runtime~main.a12f2eed.js.map",
+    "static/css/2.896c4c41.chunk.css": "/react-ecommerce/static/css/2.896c4c41.chunk.css",
+    "static/js/2.5f22eece.chunk.js": "/react-ecommerce/static/js/2.5f22eece.chunk.js",
+    "static/js/2.5f22eece.chunk.js.map": "/react-ecommerce/static/js/2.5f22eece.chunk.js.map",
+    "index.html": "/react-ecommerce/index.html",
+    "precache-manifest.a2eb46fa05e24934ed0140657eae1ce3.js": "/react-ecommerce/precache-manifest.a2eb46fa05e24934ed0140657eae1ce3.js",
+    "service-worker.js": "/react-ecommerce/service-worker.js",
+    "static/css/2.896c4c41.chunk.css.map": "/react-ecommerce/static/css/2.896c4c41.chunk.css.map",
+    "static/css/main.56735e7d.chunk.css.map": "/react-ecommerce/static/css/main.56735e7d.chunk.css.map",
+    "static/media/App.css": "/react-ecommerce/static/media/BYekan.d7b70926.woff",
+    "static/media/Glass.gif": "/react-ecommerce/static/media/Glass.941e2105.gif",
+    "static/media/gardanband.webp": "/react-ecommerce/static/media/gardanband.868dc325.webp",
+    "static/media/hadron.gif": "/react-ecommerce/static/media/hadron.996e1593.gif",
+    "static/media/kolah.webp": "/react-ecommerce/static/media/kolah.5fc4cadc.webp",
+    "static/media/logo.png": "/react-ecommerce/static/media/logo.ab1262a7.png",
+    "static/media/powerbank.webp": "/react-ecommerce/static/media/powerbank.9fbf0826.webp",
+    "static/media/shuyande.webp": "/react-ecommerce/static/media/shuyande.5e920103.webp"
+  }
+}
